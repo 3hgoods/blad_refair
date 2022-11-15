@@ -7,9 +7,10 @@
 
 ```
 
-- 
+```
+-
 BladeBUG
-
+1
 
 
 ```
@@ -26,6 +27,8 @@ BladeBUG
 - https://youtu.be/sfjtyQEhz84
 ```
 터빈 위에 크레인을 설치하였음.
+ Liftra Self-Hoisting-Cran
+ 
 
 ```
 
