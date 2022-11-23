@@ -32,3 +32,21 @@ BladeBUG
 
 ```
 
+
+
+- 로봇에 사용하는 장비는?
+
+```
+- https://www.oedigital.com/news/467652-new-tech-for-wind-blade-inspections
+- https://www.olympus-ims.com/en/insight/wind-blade-inspection-efficiency-boost/
+- https://www.olympus-ims.com/en/rollerform/
+- https://www.olympus-ims.com/en/phasedarray/omniscan-x3/#!cms[focus]=cmsContent14677
+- https://www.youtube.com/watch?v=B69TY-vAclI
+
+
+
+
+
+```
+
+
