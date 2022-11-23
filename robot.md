@@ -16,5 +16,12 @@
 ```
 - 검색어 : wind blade ultrasonic detection
 
+
+
+
+- 수리 기계
+- https://www.youtube.com/watch?v=pz9Wn2Kcj4A
+- https://www.youtube.com/watch?v=JQ4I4q3gPyk
+
 ```
 
