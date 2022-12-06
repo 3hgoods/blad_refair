@@ -24,5 +24,20 @@ https://www.youtube.com/watch?v=yH-QE5Jch0g
 
 
 
+우리의 타겟 (바다에 새로 부유식으로 세워지는 풍력발전기)
+https://www.youtube.com/watch?v=O6ROkGgPfIo
+
+현재수준 - (바다에서 사람)
+https://www.youtube.com/watch?v=drCyzOf4WpI
+
+
+바다접근(1단계) 가장 작은 로봇( 실용성은 낮음)
+https://www.youtube.com/watch?v=977PK2afP04
+
+바다접근(2단계) 큰 장비 ( 육지 모델 Aerones 롤모델 적용
+https://www.youtube.com/watch?v=0hIL6oPzfko
+
+
+
 
 ```
